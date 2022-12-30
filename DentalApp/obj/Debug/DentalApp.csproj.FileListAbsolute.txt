@@ -1,0 +1,17 @@
+C:\Users\umuta\source\repos\DentalApp\DentalApp\bin\Debug\DentalApp.exe.config
+C:\Users\umuta\source\repos\DentalApp\DentalApp\bin\Debug\DentalApp.exe
+C:\Users\umuta\source\repos\DentalApp\DentalApp\bin\Debug\DentalApp.pdb
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.csproj.AssemblyReference.cache
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.Form1.resources
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.Properties.Resources.resources
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.csproj.GenerateResource.cache
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.csproj.CoreCompileInputs.cache
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.exe
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.pdb
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.Login.resources
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.PatientDetails.resources
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.Pay.resources
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.CreateNewTreatment.resources
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.TreatementDetails.resources
+C:\Users\umuta\source\repos\DentalApp\DentalApp\obj\Debug\DentalApp.Appointment.resources
